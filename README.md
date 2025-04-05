@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🤖 AI & Frontend Developer</h2>
+<h2 align="left">🤖 AI & Fullstack Developer</h2>
 
 ###
 
